@@ -1,1 +1,21 @@
 
+{
+  "data": [
+    {
+      "shipperName": "Osama",
+      "shipperUserName": "Syed_Osama",
+      "createdAt": "timestamp",
+      "status": "open",
+      "statusUpdatedBy": "admin",
+      "comments": "working on it"
+    },
+    {
+      "shipperName": "Ahmad",
+      "shipperUserName": "Ahmad ali",
+      "createdAt": "timestamp",
+      "status": "open",
+      "statusUpdatedBy": "admin",
+      "comments": "working on it"
+    }
+  ]
+}
