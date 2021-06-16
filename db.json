@@ -4,7 +4,7 @@
     {
       "shipperName": "Osama",
       "shipperUserName": "Syed Osama",
-      "createdAt": "2021-06-11T19:00:00",
+      "createdAt": "2021-06-11",
       "status": "open",
       "statusUpdatedBy": "admin",
       "comments": "working on it"
@@ -12,7 +12,7 @@
     {
       "shipperName": "Ahmad",
       "shipperUserName": "Ahmad ali",
-      "createdAt": "2021-06-15T19:00:00",
+      "createdAt": "2021-06-15",
       "status": "open",
       "statusUpdatedBy": "admin",
       "comments": "working on it"
