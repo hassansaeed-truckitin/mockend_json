@@ -2,7 +2,7 @@
   "data": [
     {
       "shipperDemandId": 15,
-      "shipperName": "Pepsi",
+      "shipperName": "Kims",
       "shipperUserName": "Syed Osama",
       "shipperPhoneNumber": "03216574346",
       "createdAt": "2021-06-11T19:00:00",
@@ -12,7 +12,7 @@
     },
     {
       "shipperDemandId": 16,
-      "shipperName": "foodpanda",
+      "shipperName": "FoodPanda",
       "shipperUserName": "Ahmad ali",
       "shipperPhoneNumber": "03453434231",
       "createdAt": "2021-06-15T19:00:00",
