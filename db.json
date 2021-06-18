@@ -8,7 +8,7 @@
       "shipperPhoneNumber": "03216574346",
       "createdAt": "2021-06-11T19:00:00",
       "status": "OPEN",
-      "statusUpdatedBy": "admin",
+      "statusUpdatedBy": "25",
       "comments": "working on it"
     },
     {
@@ -19,7 +19,7 @@
       "shipperPhoneNumber": "03453434231",
       "createdAt": "2021-06-15T19:00:00",
       "status": "CLOSE",
-      "statusUpdatedBy": "admin",
+      "statusUpdatedBy": "26",
       "comments": "your shipment already under review."
     }
   ]
