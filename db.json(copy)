@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id":1,
+      "shipperDemandId": 15,
+      "shipperName": "Kims",
+      "shipperUserName": "Syed Osama",
+      "shipperPhoneNumber": "03216574346",
+      "createdAt": "2021-06-11T19:00:00",
+      "status": "OPEN",
+      "statusUpdatedBy": "25",
+      "comments": "working on it"
+    },
+    {
+      "id":2,
+      "shipperDemandId": 16,
+      "shipperName": "FoodPanda",
+      "shipperUserName": "Ahmad ali",
+      "shipperPhoneNumber": "03453434231",
+      "createdAt": "2021-06-15T19:00:00",
+      "status": "CLOSE",
+      "statusUpdatedBy": "26",
+      "comments": "your shipment already under review."
+    }
+  ]
+}
