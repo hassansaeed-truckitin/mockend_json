@@ -3,27 +3,27 @@
     {
       "id":1,
       "trackingStatus": "started",
-      "TimeStamp": "2021-06-11T19:00:00",
+      "TimeStamp": "2021-06-11T19:00:00"
     },
     {
       "id":2,
       "trackingStatus": "pickup",
-      "TimeStamp": "2021-06-11T19:00:00",
+      "TimeStamp": "2021-06-11T19:00:00"
     },
     {
       "id":3,
       "trackingStatus": "left for loading",
-      "TimeStamp": "2021-06-11T19:00:00",
+      "TimeStamp": "2021-06-11T19:00:00"
     },
     {
       "id":4,
       "trackingStatus": "Loading completed",
-      "TimeStamp": "2021-06-11T19:00:00",
+      "TimeStamp": "2021-06-11T19:00:00"
     },
     {
       "id":5,
       "trackingStatus": "dropoff",
-      "TimeStamp": "2021-06-11T19:00:00",
+      "TimeStamp": "2021-06-11T19:00:00"
     }
   ]
 }
