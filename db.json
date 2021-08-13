@@ -2,27 +2,8 @@
   "data": [
     {
       "id":1,
-      "trackingStatus": "Started",
-      "TimeStamp": "2021-06-11T19:00:00"
-    },
-    {
-      "id":2,
-      "trackingStatus": "Pickup",
-      "TimeStamp": "2021-06-11T19:00:00"
-    },
-    {
-      "id":3,
-      "trackingStatus": "Left for loading",
-      "TimeStamp": "2021-06-11T19:00:00"
-    },
-    {
-      "id":4,
-      "trackingStatus": "Loading completed",
-      "TimeStamp": "2021-06-11T19:00:00"
-    },
-    {
-      "id":5,
-      "trackingStatus": "Dropoff",
+      "MarginGlobalValue": "5",
+      "username": "haider"
       "TimeStamp": "2021-06-11T19:00:00"
     }
   ]
