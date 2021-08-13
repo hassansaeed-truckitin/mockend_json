@@ -2,9 +2,9 @@
   "data": [
     {
       "id":1,
-      "MarginGlobalValue": "5",
-      "username": "haider",
-      "TimeStamp": "2021-06-11T19:00:00"
+      "value": "2",
+      "userFullName": "haider",
+      "creationDate": "2021-06-11T19:00:00"
     }
   ]
 }
